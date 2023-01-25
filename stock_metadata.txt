@@ -1,0 +1,761 @@
+{
+	"items": [
+			{
+				"id": 4569275179,
+				"weight": 1,
+				"tradingsymbol": "NIFTY 50",
+				"instrument_token": 256265,
+				"segment": "INDICES",
+				"exchange": "NSE",
+				"expiry": ""
+			},
+			{
+				"id": 5019214318,
+				"weight": 2,
+				"tradingsymbol": "NIFTY2311917100CE",
+				"instrument_token": 13230338,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214370,
+				"weight": 3,
+				"tradingsymbol": "NIFTY2311917150CE",
+				"instrument_token": 13230850,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214434,
+				"weight": 4,
+				"tradingsymbol": "NIFTY2311917200CE",
+				"instrument_token": 13231362,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214484,
+				"weight": 5,
+				"tradingsymbol": "NIFTY2311917250CE",
+				"instrument_token": 13231874,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214547,
+				"weight": 6,
+				"tradingsymbol": "NIFTY2311917300CE",
+				"instrument_token": 13232898,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214601,
+				"weight": 7,
+				"tradingsymbol": "NIFTY2311917350CE",
+				"instrument_token": 13233410,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214653,
+				"weight": 8,
+				"tradingsymbol": "NIFTY2311917400CE",
+				"instrument_token": 13233922,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214709,
+				"weight": 9,
+				"tradingsymbol": "NIFTY2311917450CE",
+				"instrument_token": 13234434,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214778,
+				"weight": 10,
+				"tradingsymbol": "NIFTY2311917500CE",
+				"instrument_token": 13235970,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214854,
+				"weight": 11,
+				"tradingsymbol": "NIFTY2311917550CE",
+				"instrument_token": 13236482,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214932,
+				"weight": 12,
+				"tradingsymbol": "NIFTY2311917600CE",
+				"instrument_token": 13236994,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019214983,
+				"weight": 13,
+				"tradingsymbol": "NIFTY2311917650CE",
+				"instrument_token": 13237506,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215048,
+				"weight": 14,
+				"tradingsymbol": "NIFTY2311917700CE",
+				"instrument_token": 13238018,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215109,
+				"weight": 15,
+				"tradingsymbol": "NIFTY2311917750CE",
+				"instrument_token": 13238530,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215172,
+				"weight": 16,
+				"tradingsymbol": "NIFTY2311917800CE",
+				"instrument_token": 13239042,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215244,
+				"weight": 17,
+				"tradingsymbol": "NIFTY2311917850CE",
+				"instrument_token": 13239554,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215310,
+				"weight": 18,
+				"tradingsymbol": "NIFTY2311917900CE",
+				"instrument_token": 13240066,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215354,
+				"weight": 19,
+				"tradingsymbol": "NIFTY2311917950CE",
+				"instrument_token": 13240578,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215424,
+				"weight": 20,
+				"tradingsymbol": "NIFTY2311918000CE",
+				"instrument_token": 13241858,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215487,
+				"weight": 21,
+				"tradingsymbol": "NIFTY2311918050CE",
+				"instrument_token": 13242882,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215546,
+				"weight": 22,
+				"tradingsymbol": "NIFTY2311918100CE",
+				"instrument_token": 13243394,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215608,
+				"weight": 23,
+				"tradingsymbol": "NIFTY2311918150CE",
+				"instrument_token": 13244162,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215665,
+				"weight": 24,
+				"tradingsymbol": "NIFTY2311918200CE",
+				"instrument_token": 13245186,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215723,
+				"weight": 25,
+				"tradingsymbol": "NIFTY2311918250CE",
+				"instrument_token": 13246722,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215771,
+				"weight": 26,
+				"tradingsymbol": "NIFTY2311918300CE",
+				"instrument_token": 13247746,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215822,
+				"weight": 27,
+				"tradingsymbol": "NIFTY2311918350CE",
+				"instrument_token": 13249026,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215877,
+				"weight": 28,
+				"tradingsymbol": "NIFTY2311918400CE",
+				"instrument_token": 13249538,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019215935,
+				"weight": 29,
+				"tradingsymbol": "NIFTY2311918450CE",
+				"instrument_token": 13250306,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216008,
+				"weight": 30,
+				"tradingsymbol": "NIFTY2311918500CE",
+				"instrument_token": 13250818,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216073,
+				"weight": 31,
+				"tradingsymbol": "NIFTY2311918550CE",
+				"instrument_token": 13251330,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216126,
+				"weight": 32,
+				"tradingsymbol": "NIFTY2311918600CE",
+				"instrument_token": 13251842,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216187,
+				"weight": 33,
+				"tradingsymbol": "NIFTY2311918650CE",
+				"instrument_token": 13252354,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216252,
+				"weight": 34,
+				"tradingsymbol": "NIFTY2311918700CE",
+				"instrument_token": 13252866,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216300,
+				"weight": 35,
+				"tradingsymbol": "NIFTY2311918750CE",
+				"instrument_token": 13255938,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216357,
+				"weight": 36,
+				"tradingsymbol": "NIFTY2311918800CE",
+				"instrument_token": 13256450,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216424,
+				"weight": 37,
+				"tradingsymbol": "NIFTY2311918850CE",
+				"instrument_token": 13258754,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216478,
+				"weight": 38,
+				"tradingsymbol": "NIFTY2311918900CE",
+				"instrument_token": 13259522,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216537,
+				"weight": 39,
+				"tradingsymbol": "NIFTY2311918950CE",
+				"instrument_token": 13260034,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216587,
+				"weight": 40,
+				"tradingsymbol": "NIFTY2311919000CE",
+				"instrument_token": 13260546,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216648,
+				"weight": 41,
+				"tradingsymbol": "NIFTY2311919050CE",
+				"instrument_token": 13261058,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216703,
+				"weight": 42,
+				"tradingsymbol": "NIFTY2311919100CE",
+				"instrument_token": 13262082,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 2510896488,
+				"weight": 1,
+				"tradingsymbol": "NIFTY 50",
+				"instrument_token": 256265,
+				"segment": "INDICES",
+				"exchange": "NSE",
+				"expiry": ""
+			},
+			{
+				"id": 5019216754,
+				"weight": 2,
+				"tradingsymbol": "NIFTY2311919100PE",
+				"instrument_token": 13264130,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216820,
+				"weight": 3,
+				"tradingsymbol": "NIFTY2311919050PE",
+				"instrument_token": 13261314,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216871,
+				"weight": 4,
+				"tradingsymbol": "NIFTY2311919000PE",
+				"instrument_token": 13260802,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216937,
+				"weight": 5,
+				"tradingsymbol": "NIFTY2311918950PE",
+				"instrument_token": 13260290,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019216992,
+				"weight": 6,
+				"tradingsymbol": "NIFTY2311918900PE",
+				"instrument_token": 13259778,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217046,
+				"weight": 7,
+				"tradingsymbol": "NIFTY2311918850PE",
+				"instrument_token": 13259266,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217104,
+				"weight": 8,
+				"tradingsymbol": "NIFTY2311918800PE",
+				"instrument_token": 13256706,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217155,
+				"weight": 9,
+				"tradingsymbol": "NIFTY2311918750PE",
+				"instrument_token": 13256194,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217217,
+				"weight": 10,
+				"tradingsymbol": "NIFTY2311918700PE",
+				"instrument_token": 13253122,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217259,
+				"weight": 11,
+				"tradingsymbol": "NIFTY2311918650PE",
+				"instrument_token": 13252610,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217312,
+				"weight": 12,
+				"tradingsymbol": "NIFTY2311918600PE",
+				"instrument_token": 13252098,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217367,
+				"weight": 13,
+				"tradingsymbol": "NIFTY2311918550PE",
+				"instrument_token": 13251586,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217415,
+				"weight": 14,
+				"tradingsymbol": "NIFTY2311918500PE",
+				"instrument_token": 13251074,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217477,
+				"weight": 15,
+				"tradingsymbol": "NIFTY2311918450PE",
+				"instrument_token": 13250562,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217537,
+				"weight": 16,
+				"tradingsymbol": "NIFTY2311918400PE",
+				"instrument_token": 13249794,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217595,
+				"weight": 17,
+				"tradingsymbol": "NIFTY2311918350PE",
+				"instrument_token": 13249282,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217646,
+				"weight": 18,
+				"tradingsymbol": "NIFTY2311918300PE",
+				"instrument_token": 13248514,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217754,
+				"weight": 19,
+				"tradingsymbol": "NIFTY2311918250PE",
+				"instrument_token": 13247490,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217817,
+				"weight": 20,
+				"tradingsymbol": "NIFTY2311918200PE",
+				"instrument_token": 13246466,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217882,
+				"weight": 21,
+				"tradingsymbol": "NIFTY2311918150PE",
+				"instrument_token": 13244418,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019217954,
+				"weight": 22,
+				"tradingsymbol": "NIFTY2311918100PE",
+				"instrument_token": 13243650,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218005,
+				"weight": 23,
+				"tradingsymbol": "NIFTY2311918050PE",
+				"instrument_token": 13243138,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218062,
+				"weight": 24,
+				"tradingsymbol": "NIFTY2311918000PE",
+				"instrument_token": 13242114,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218110,
+				"weight": 25,
+				"tradingsymbol": "NIFTY2311917950PE",
+				"instrument_token": 13240834,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218169,
+				"weight": 26,
+				"tradingsymbol": "NIFTY2311917900PE",
+				"instrument_token": 13240322,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218222,
+				"weight": 27,
+				"tradingsymbol": "NIFTY2311917850PE",
+				"instrument_token": 13239810,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218264,
+				"weight": 28,
+				"tradingsymbol": "NIFTY2311917800PE",
+				"instrument_token": 13239298,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218327,
+				"weight": 29,
+				"tradingsymbol": "NIFTY2311917750PE",
+				"instrument_token": 13238786,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218391,
+				"weight": 30,
+				"tradingsymbol": "NIFTY2311917700PE",
+				"instrument_token": 13238274,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218445,
+				"weight": 31,
+				"tradingsymbol": "NIFTY2311917650PE",
+				"instrument_token": 13237762,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218507,
+				"weight": 32,
+				"tradingsymbol": "NIFTY2311917600PE",
+				"instrument_token": 13237250,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218583,
+				"weight": 33,
+				"tradingsymbol": "NIFTY2311917550PE",
+				"instrument_token": 13236738,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218649,
+				"weight": 34,
+				"tradingsymbol": "NIFTY2311917500PE",
+				"instrument_token": 13236226,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218705,
+				"weight": 35,
+				"tradingsymbol": "NIFTY2311917450PE",
+				"instrument_token": 13234690,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218761,
+				"weight": 36,
+				"tradingsymbol": "NIFTY2311917400PE",
+				"instrument_token": 13234178,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218811,
+				"weight": 37,
+				"tradingsymbol": "NIFTY2311917350PE",
+				"instrument_token": 13233666,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218877,
+				"weight": 38,
+				"tradingsymbol": "NIFTY2311917300PE",
+				"instrument_token": 13233154,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218941,
+				"weight": 39,
+				"tradingsymbol": "NIFTY2311917250PE",
+				"instrument_token": 13232130,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019218999,
+				"weight": 40,
+				"tradingsymbol": "NIFTY2311917200PE",
+				"instrument_token": 13231618,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019219061,
+				"weight": 41,
+				"tradingsymbol": "NIFTY2311917150PE",
+				"instrument_token": 13231106,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			},
+			{
+				"id": 5019219126,
+				"weight": 42,
+				"tradingsymbol": "NIFTY2311917100PE",
+				"instrument_token": 13230594,
+				"segment": "NFO-OPT",
+				"exchange": "NFO",
+				"expiry": "2023-01-19"
+			}
+		]
+
+}
