@@ -1,3 +1,6 @@
+
+This Project is made for only educational perpose
+
 # Zeroda_Scrapping
 Scrraping stock and option data from zeroda .This is for educational purpose
 
